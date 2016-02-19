@@ -1,0 +1,27 @@
+h1
+{
+	text-align: center;
+	font-weight: bold;
+}
+h3
+{
+	
+	text-align: left;
+	font-weight: bold;
+}
+div.Visit
+{
+		margin-top: 50px;
+		margin-left: 100px;
+		margin-right: 100px;
+		background-color: #F0F0F0;
+		padding:20px;
+}
+
+
+
+body
+{
+	background-color: #F0F0F0;
+
+}

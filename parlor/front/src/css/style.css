@@ -1,0 +1,52 @@
+#header
+{
+	background: url('backgroundimg.png');
+	color:white;
+}
+#slidetext
+{
+	text-position: center;
+	text-align: left;
+}
+
+//div.carousel slide
+{
+padding:50px;
+}
+img.preview.jpg
+{
+	background-color:black;
+	max-width: 500px;
+    height: 100px;
+}
+//body
+{
+
+	margin: 0;
+     background: url('backgroundimg.png');
+     background-size: 1440px 800px;
+     background-repeat:no-repeatdisplay: compact;
+     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body{
+		background-color: #F0F0F0;
+	}
+p 
+{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+h3
+{
+	
+	text-align: left;
+	font-weight: bold;
+}
+h4
+{
+	
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+}
